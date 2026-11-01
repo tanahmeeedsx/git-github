@@ -1,4 +1,4 @@
-<h2 align="center"># Git and GitHub
+<h2 align="center"> # Git and GitHub
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="75" alt="Git Logo" />
